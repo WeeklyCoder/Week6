@@ -12,8 +12,9 @@ The rule is simple. Be the first player to get your symbol in a row.
 
 ## 💡 Where to start? (Ideas)
 - Recommended: Click [here](https://github.com/WeeklyCoder/Week6/blob/main/Lingo%20Dash.xd) to access the Adobe XD Design file and refer the dimensions.
-- Click [here](https://www.figma.com/file/cT8PtEhspnHaiQAKKgpV61/Weekly-Coder?type=design&node-id=0%3A1&mode=design&t=ryojFeN4ROKz9xMk-1) to open the design in Figma.
-- Alternatively, you can make use of the XD, SVG, or SVG file provided to get exact/near-exact dimensions.
+- Or, click [here](https://www.figma.com/file/cT8PtEhspnHaiQAKKgpV61/Weekly-Coder?type=design&node-id=0%3A1&mode=design&t=ryojFeN4ROKz9xMk-1) to open the design in Figma.
+- Alternatively, you can make use of the SVG or PNG file provided to get exact/near-exact dimensions.
+- Click [here](https://github.com/WeeklyCoder/Week5/blob/main/WeeklyCoder_Week6.pde) to get a bare minimum file.
 
 ## Recommended learning:
 ```- Multidimensional arrays```
@@ -25,4 +26,4 @@ The rule is simple. Be the first player to get your symbol in a row.
 ```- line (), stroke (), strokeWeight (), ```
 
 ## ⏳ Submissions:
-- Submission of this challenge, just like all of the Weekly Coder’s challenges, is to be within 36 hours after post. And so, [here](https://t.me/WeeklyCoder/15) Sunday morning 12:00 LT.
+- Submission of this challenge, just like all of the Weekly Coder’s challenges, is to be within 36 hours after post. And so, [here](https://t.me/WeeklyCoder/16) Sunday morning 12:00 LT.
