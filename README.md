@@ -11,7 +11,8 @@ The rule is simple. Be the first player to get your symbol in a row.
 - See if you can make the code modular such that it may be customized later. For instance, instead of only drawing rectangles, see if you can associate the text, lines, and borders. Let you use variables for what you suspect will change (Eg. Score, Remaining Time, Misses, Definition, Words, Selected Word, Wrong Entries, Player Name, + )
 
 ## 💡 Where to start? (Ideas)
-- Recommended: Click [here](https://www.figma.com/file/cT8PtEhspnHaiQAKKgpV61/Weekly-Coder?type=design&node-id=0%3A1&mode=design&t=ryojFeN4ROKz9xMk-1) to open the design in Figma.
+- Recommended: Click [here](https://github.com/WeeklyCoder/Week6/blob/main/Lingo%20Dash.xd) to access the Adobe XD Design file and refer the dimensions.
+- Click [here](https://www.figma.com/file/cT8PtEhspnHaiQAKKgpV61/Weekly-Coder?type=design&node-id=0%3A1&mode=design&t=ryojFeN4ROKz9xMk-1) to open the design in Figma.
 - Alternatively, you can make use of the XD, SVG, or SVG file provided to get exact/near-exact dimensions.
 
 ## Recommended learning:
