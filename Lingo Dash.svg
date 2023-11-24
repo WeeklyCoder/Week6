@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <clipPath id="clip-Web_1366_1">
+      <rect width="1366" height="768"/>
+    </clipPath>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <use xlink:href="#fill-4"/>
+    </clipPath>
+    <clipPath id="clip-5">
+      <use xlink:href="#fill-5"/>
+    </clipPath>
+    <clipPath id="clip-6">
+      <use xlink:href="#fill-6"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_1" data-name="Web 1366 – 1" clip-path="url(#clip-Web_1366_1)">
+    <rect width="1366" height="768"/>
+    <text id="provide_or_serve_as_a_clear_evidence_of" data-name="provide or serve as a clear evidence of" transform="translate(682 152.5)" fill="#fff" font-size="20" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-193.85" y="0">provide or serve as a clear evidence of</tspan></text>
+    <text id="Score:_15" data-name="Score: 15" transform="translate(1167 75)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-75.633" y="0">Score: 15</tspan></text>
+    <text id="Misses:_5" data-name="Misses: 5" transform="translate(198 75)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="0" y="0">Misses: 5</tspan></text>
+    <text id="WRONG_ENTRIES:" data-name="WRONG ENTRIES:" transform="translate(219 689)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="0" y="0">WRONG ENTRIES:</tspan></text>
+    <text id="_00:23" data-name="00:23" transform="translate(682 75)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-25.143" y="0">00:23</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M299,238.163h969" transform="translate(-101 -46)" fill="none" stroke="#fff" stroke-width="0.5"/>
+    <path id="Path_4" data-name="Path 4" d="M299,238.163h969" transform="translate(-101 396.837)" fill="none" stroke="#fff" stroke-width="0.5"/>
+    <path id="Path_2" data-name="Path 2" d="M299,238.163h969" transform="translate(-101 -137.325)" fill="none" stroke="#fff" stroke-width="0.5"/>
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(998 657)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="169" height="53" rx="26.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="168" height="52" rx="26" fill="none"/>
+    </g>
+    <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(198 657)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="569" height="53" rx="26.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="568" height="52" rx="26" fill="none"/>
+    </g>
+    <text id="HOMER" transform="translate(1082 690)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-32.904" y="0">HOMER</tspan></text>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="20" height="33" rx="10" transform="translate(414 666)" fill="#ff7272"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="20" height="33" rx="10" transform="translate(389 666)" fill="#ff7272"/>
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="20" height="33" rx="10" transform="translate(439 666)" fill="#ff7272"/>
+    <text id="L" transform="translate(424 689)" font-size="17" font-family="Consolas-Bold, Consolas" font-weight="700"><tspan x="-4.673" y="0">L</tspan></text>
+    <text id="U" transform="translate(399 689)" font-size="17" font-family="Consolas-Bold, Consolas" font-weight="700"><tspan x="-4.673" y="0">U</tspan></text>
+    <text id="I" transform="translate(449 689)" font-size="17" font-family="Consolas-Bold, Consolas" font-weight="700"><tspan x="-4.673" y="0">I</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="169" height="53" rx="26.5" transform="translate(198 302.6)" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="170" height="53" rx="26.5" transform="translate(398 302.6)" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="170" height="53" rx="26.5" transform="translate(597 302.6)" fill="#fff"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="169" height="53" rx="26.5" transform="translate(798 302.6)" fill="#fff"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="169" height="53" rx="26.5" transform="translate(998 302.6)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="169" height="53" rx="26.5" transform="translate(198 471.6)" fill="#fff"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="170" height="53" rx="26.5" transform="translate(398 471.6)" fill="#fff"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="170" height="53" rx="26.5" transform="translate(597 471.6)" fill="#fff"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="169" height="53" rx="26.5" transform="translate(798 471.6)" fill="#fff"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="169" height="53" rx="26.5" transform="translate(998 471.6)" fill="#fff"/>
+    <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(198 218.6)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="169" height="53" rx="26.5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="166" height="50" rx="25" fill="none"/>
+    </g>
+    <rect id="Rectangle_2-2" data-name="Rectangle 2" width="170" height="53" rx="26.5" transform="translate(398 218.6)" fill="#fff"/>
+    <rect id="Rectangle_3-2" data-name="Rectangle 3" width="170" height="53" rx="26.5" transform="translate(597 218.6)" fill="#fff"/>
+    <rect id="Rectangle_4-2" data-name="Rectangle 4" width="169" height="53" rx="26.5" transform="translate(798 218.6)" fill="#fff"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="169" height="53" rx="26.5" transform="translate(998 218.6)" fill="#fff"/>
+    <text id="POWER" transform="translate(282 251.6)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-33.907" y="0">POWER</tspan></text>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="170" height="53" rx="26.5" transform="translate(398 555.6)" fill="#fff"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="170" height="53" rx="26.5" transform="translate(597 555.6)" fill="#fff"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="169" height="53" rx="26.5" transform="translate(798 555.6)" fill="#fff"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="169" height="53" rx="26.5" transform="translate(998 555.6)" fill="#fff"/>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(198 555.6)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="169" height="53" rx="26.5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="166" height="50" rx="25" fill="none"/>
+    </g>
+    <text id="CONSPIRE" transform="translate(281 588.6)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-45.696" y="0">CONSPIRE</tspan></text>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="169" height="52" rx="26" transform="translate(198 387.6)" fill="#fff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="170" height="52" rx="26" transform="translate(597 387.6)" fill="#fff"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="169" height="52" rx="26" transform="translate(798 387.6)" fill="#fff"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="169" height="52" rx="26" transform="translate(998 387.6)" fill="#fff"/>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(398 386.6)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="170" height="53" rx="26.5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="167" height="50" rx="25" fill="none"/>
+    </g>
+    <text id="LOVE" transform="translate(483 419.6)" fill="#fff" font-size="17" font-family="Gotham-Medium, Gotham" font-weight="500"><tspan x="-23.851" y="0">LOVE</tspan></text>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(587 377.6)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="190" height="72" rx="36" stroke="none"/>
+      <rect x="1.5" y="1.5" width="187" height="69" rx="34.5" fill="none"/>
+    </g>
+    <text id="A" transform="translate(643.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em"><tspan x="-5.498" y="0">A</tspan></text>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(637 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip)"/>
+    </g>
+    <text id="T" transform="translate(659.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em"><tspan x="-5.498" y="0">T</tspan></text>
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(653 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill-2" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip-2)"/>
+    </g>
+    <text id="T-2" data-name="T" transform="translate(674.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em"><tspan x="-5.498" y="0">T</tspan></text>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(669 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill-3" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip-3)"/>
+    </g>
+    <text id="E" transform="translate(691.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em" opacity="0"><tspan x="-5.498" y="0">E</tspan></text>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(686 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill-4" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip-4)"/>
+    </g>
+    <text id="S" transform="translate(707.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em" opacity="0"><tspan x="-5.498" y="0">S</tspan></text>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(702 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill-5" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip-5)"/>
+    </g>
+    <text id="T-3" data-name="T" transform="translate(723.5 419.567)" stroke="#000" stroke-width="0.5" font-size="20" font-family="Consolas-Bold, Consolas" font-weight="700" letter-spacing="0.161em"><tspan x="-5.498" y="0">T</tspan></text>
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(718 424.246)" stroke="#000" stroke-width="5">
+      <rect id="fill-6" width="11.936" height="2.387" stroke="none"/>
+      <path d="M0,-0.11270856857299805h11.936457633972168M9.436457633972168,0v2.387291431427002M11.936457633972168,2.5h-11.936457633972168M2.5,2.387291431427002v-2.387291431427002" fill="none" clip-path="url(#clip-6)"/>
+    </g>
+  </g>
+</svg>
