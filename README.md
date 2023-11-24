@@ -1,5 +1,5 @@
 # Week6 | Lingo Dash
-Code to liven up this Egyptian game from the 1300 BC often called Tic-Tac-Toe ( O - X )!
+Bring to life this graphics of a brand new game as closely and neatly as you can.
 
 ## 📃 Description:
 Bring to life this graphics of a brand new game as closely and neatly as you can.
